@@ -83,6 +83,3 @@ The ALU module selects operations based on the 3-bit selector (`Sel`) as follows
 
 ## Acknowledgments
 This project was developed as part of the **Digital Design and Computer Architecture** course at **Zewail City of Science and Technology** during August 2024.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
