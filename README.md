@@ -1,7 +1,7 @@
 # 3-Bit Arithmetic and Logic Unit (ALU)
 
 ## Overview
-This project involves the design and implementation of a **3-bit Arithmetic and Logic Unit (ALU)** capable of performing various arithmetic and logical operations. The ALU is implemented using basic logic gates and modular design principles. It includes support for operations like addition, subtraction, 2's complement, increment, XOR, complement, OR, and AND, with the appropriate flags for overflow, negative, carry, and zero.
+This project involves the design and implementation of a **3-bit Arithmetic and Logic Unit (ALU)** using SystemVerilog, which is capable of performing various arithmetic and logical operations. The ALU is implemented using basic logic gates and modular design principles. It includes support for operations like addition, subtraction, 2's complement, increment, XOR, complement, OR, and AND, with the appropriate flags for overflow, negative, carry, and zero.
 
 ## Features
 - **Arithmetic Operations**:
